@@ -17,5 +17,6 @@ slides:
   - bbc-micro
   - apple-newton
   - iphone-jobs
+  - amiga500
 ---
 
